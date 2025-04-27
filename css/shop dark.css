@@ -598,7 +598,6 @@ div.gallery img {
     opacity:  !important;
     background: #000 !important
 }
-
 .navbar a{
     transition:  color 1s, background 1s !important;
     color: #fff !important;
@@ -613,7 +612,6 @@ div.gallery img {
     font-family: serif;
     color: #fff !important
 }
-
 .navbar-brand:hover {
   color: #fff !important
 }
@@ -621,7 +619,6 @@ div.gallery img {
 .nav a {
   color: #fff
 } 
-
 .nav a:hover, a:focus{
     background:#000 !important;
     color: #eee!important;
@@ -632,7 +629,6 @@ div.gallery img {
 .menu-a{
     background:#333!important
 }
-
 .menu-a li a:hover{
     background:#4fc3f7 !important;
     color: #999
@@ -665,41 +661,38 @@ div.gallery img {
 }
 
 .face {
-  background:#111 ;
-  color: white;
-  transition: background 1s
+      background:#111 ;
+      color: white;
+      transition: background 1s
+}
+.face:hover{
+      color: white !important;
+      background: #3B5998 !important;
 }
 
-.face:hover{
-
-   color: white !important;
-   background: #3B5998 !important;
-   }
 #call .fa-linkedin {
-     color: white;
-     transition: color 1s;
+      color: white;
+      transition: color 1s;
       padding: 6px 15px 6px 6px;
-     font-size: 30px;
-     width: 35px;
-     text-align: center;
-     text-decoration: none;
-     border-radius: 5px;
-     margin-top: 8px;
+      font-size: 30px;
+      width: 35px;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 8px;
       transition: background 1s;
-     background: #111;
-   
+      background: #111;
 }
 #call .fa-linkedin:hover{
-    color: white !important;
-     background: #0077B5;
-    
+      color: white !important;
+      background: #0077B5;
 }
 
 .slidetx{
-    padding: 20px 10px 
+      padding: 20px 10px 
 }
 .section2 div{
-margin-bottom: 50px
+      margin-bottom: 50px
 }
 
 
