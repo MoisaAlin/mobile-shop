@@ -5,8 +5,6 @@ body{
 }
 
 
-
-
 .bodydark h1, h2, h3,  h5, h6, p{
     color:#eeeeee  !important;
     font-family: 'Roboto', sans-serif !important;
@@ -15,16 +13,13 @@ body{
     color: #bdbdbd  !important;
     font-family: 'Roboto', sans-serif !important;
 }
-
 .bodydark span{
-    
     font-family: 'Anton', sans-serif;
-
     font-family: 'Lobster', cursive;
-
     font-family: 'Pacifico', cursive;
     color: !important
 }
+
 .color{
     color: #999
 }
@@ -34,8 +29,6 @@ body{
     height: auto;
     opacity: .7;
     transition: opacity 2s, transform 1s !important;
-
-    
 }
 .img:hover{
     opacity: 1;
@@ -43,21 +36,18 @@ body{
     transform: scale(1.05,1.05) !important
 }
 .imgr{
-   
     opacity: 1 !important;
     transition: opacity 2s, transform 3s !important;
 }
 .imgr:hover{
-    
     transform: rotatey(200deg) !important;
-    cursor: pointer
+    cursor: pointer;
 }
 
 .i{
     color:#4fc3f7 !important;
     cursor: pointer;
 }
-
 .i:hover{
     transform: scale(1.1,1.1)
 }
@@ -69,7 +59,6 @@ body{
 .paddingtop{
     padding-top:  50px
 }
-
 .paddingbottom{
     padding-bottom:  30px
 }
@@ -102,6 +91,7 @@ a:hover{
     background: #03a9f4;
     border: 1px solid #03a9f4
 }
+
 .overflow{
     overflow: hidden !important
 }
@@ -114,21 +104,20 @@ a:hover{
     opacity: .9 !important;
 }
 
- .carousel-inner img {
+.carousel-inner img {
      
       width: 100%; /* Set width to 100% */
       margin: auto;
-  }
-  .carousel-caption h3 {
+}
+.carousel-caption h3 {
       color: #fff !important;
-  }
-  @media (max-width: 600px) {
-    .carousel-caption {
-      display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
-    }
-  }
+}
+@media (max-width: 600px) {
+      .carousel-caption {
+            display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+      }
+}
   
-
 .indic2 li{
     background: #0277bd !important;
     border-color: black  !important;
@@ -138,9 +127,6 @@ a:hover{
 
 .carsa{
     width: 25px !important;
-    
-    
-    
 }
 
 .kos1{
