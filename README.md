@@ -1,5 +1,6 @@
 # Mobile Shop.
 
+Disclaimer: This version is not finish and will be more polished in the future.
 This is a static website for a mobile shop, built using HTML, CSS, JS, Bootstrap, Javascript, and JQuery. The website consists of a single page that showcases the shop's products and allows users to browse and purchase mobile phones.
 
 ## Demo
